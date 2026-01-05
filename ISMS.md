@@ -2,6 +2,9 @@
 
 # 🛡️ 資訊安全與管理 (ISMS) 課程主頁 🛡️
 
+[![Chinese](https://img.shields.io/badge/Language-Chinese_%E4%B8%AD%E6%96%87-blue?style=for-the-badge&logo=google-translate&logoColor=white)](./ISMS.md)
+[![English](https://img.shields.io/badge/Language-English-red?style=for-the-badge&logo=google-translate&logoColor=white)](./ISMS_EN.md)
+
 [![ISMS](https://img.shields.io/badge/Course-ISMS-%23000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Xingkkk091/ISMS)
 [![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)](https://github.com/Xingkkk091/ISMS)
 [![License](https://img.shields.io/badge/License-MIT-blue?style=for-the-badge)](https://github.com/Xingkkk091/ISMS)
@@ -24,6 +27,19 @@
 | **04** | **上課前聊_InfoSec Overview** | [![PPT](https://img.shields.io/badge/下載-PPT-007bff?style=flat-square&logo=microsoft-powerpoint&logoColor=white)](https://github.com/Xingkkk091/ISMS/raw/main/1-4.%E4%B8%8A%E8%AA%B2%E5%89%8D%E8%81%8A-%E8%B3%87%E8%A8%8A%E5%AE%89%E5%85%A8_Overview_Concept.ppt) | 資安概念導讀 |
 | **05** | **資訊常用語大補帖** | [![TXT](https://img.shields.io/badge/下載-TXT-gray?style=flat-square&logo=txt&logoColor=white)](https://github.com/Xingkkk091/ISMS/raw/main/1-5.%E5%B8%B8%E8%A6%8B%E8%B3%87%E8%A8%8A%E7%94%A8%E8%AA%9E_%E5%8F%8A_%E5%90%8C%E5%AD%B8%E5%8F%AF%E4%BB%A5%E5%A0%B1%E5%91%8A_%E5%8F%96%E4%BB%A3%E6%9C%9F%E4%B8%AD%E6%9C%9F%E6%9C%AA%E8%80%83%E7%9A%84%E9%A1%8C%E7%9B%AE.txt) | 可做報告主題參考 |
 | **06** | **資訊安全相關工作職位** | [![MD](https://img.shields.io/badge/閱覽-MD-white?style=flat-square&logo=markdown&logoColor=black)](https://github.com/Xingkkk091/ISMS/blob/main/%E8%B3%87%E8%A8%8A%E5%AE%89%E5%85%A8%E7%9B%B8%E9%97%9C%E5%B7%A5%E4%BD%9C%E8%81%B7%E4%BD%8D.md) | 職涯發展路徑 |
+
+---
+
+## 📝 作業一：Markdown 實戰 (第 5 週繳交)
+
+> **🎯 目標**：熟悉 VS Code 操作、Git 版本控制，並完成個人介紹 Markdown 檔案。
+
+| 項目 | 說明 | 範本下載 |
+| :--- | :--- | :---: |
+| **作業說明** | 作業詳細執行步驟與規範 | [![下載](https://img.shields.io/badge/下載-TXT-gray?style=flat-square)](https://github.com/Xingkkk091/ISMS/raw/main/%E4%BD%9C%E6%A5%AD1-%E4%BD%BF%E7%94%A8VSCode%E7%B7%A8%E6%88%90MarkDown%E6%A0%BC%E5%BC%8F-Copilot%E5%8D%94%E5%8A%A9_%E4%B8%8A%E5%82%B3GitHub_%E4%BA%A4%E9%80%A3%E6%8E%A5%E5%88%B0%E4%BD%9C%E6%A5%AD%E5%8D%80.txt) |
+| **課程目錄範例** | Markdown 格式的課程目錄範本 | [![下載](https://img.shields.io/badge/下載-MD-white?style=flat-square&logo=markdown)](https://github.com/Xingkkk091/ISMS/raw/main/%E4%BD%9C%E6%A5%AD1%E7%AF%84%E4%BE%8BA.md) |
+| **自傳範例** | 自傳 Markdown 參考範本 | [![下載](https://img.shields.io/badge/下載-MD-white?style=flat-square&logo=markdown)](https://github.com/Xingkkk091/ISMS/raw/main/%E8%87%AA%E5%82%B3%28Markdown%29.md) |
+| **履歷表範例** | 專業履歷表 Markdown 參考範本 | [![下載](https://img.shields.io/badge/下載-MD-white?style=flat-square&logo=markdown)](https://github.com/Xingkkk091/ISMS/raw/main/%E5%B1%A5%E6%AD%B7%E8%A1%A8%E7%AF%84%E4%BE%8B%EF%BC%88%E5%A4%A7%E5%AD%B8%E8%B3%87%E7%AE%A1%E7%B3%BB%EF%BC%89.md) |
 
 ---
 
